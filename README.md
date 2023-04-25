@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Elaborate Train and Predict mode docs arguments (#8137)
