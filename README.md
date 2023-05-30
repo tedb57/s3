@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
