@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
