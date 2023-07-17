@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
