@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
