@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
