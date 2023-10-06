@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add Amazon Sagemaker Docs integrations page (#7293)
