@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Bounding Box to OBB conversion (#7572)
