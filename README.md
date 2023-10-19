@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Improve Coral Edge TPU guide (#8160)
