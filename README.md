@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+YOLOv8 INT8 TFLite Inference Example (#7317)
