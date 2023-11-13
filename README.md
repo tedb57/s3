@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Fix ONNX GPU inference bug (#6840)
