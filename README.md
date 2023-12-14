@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
