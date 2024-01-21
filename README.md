@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix docs links (#7096)
