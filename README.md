@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update HTTP to HTTPS (#7548)
