@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+New test for labels and crops (#8861)
