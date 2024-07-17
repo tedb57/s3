@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Add new YOLOv8 OBB model metrics (#7379)
