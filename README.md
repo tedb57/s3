@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+docs: update view-results-in-terminal.md (#66)
