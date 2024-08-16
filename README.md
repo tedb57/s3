@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
