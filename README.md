@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
