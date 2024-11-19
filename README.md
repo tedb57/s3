@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
