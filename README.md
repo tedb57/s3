@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
